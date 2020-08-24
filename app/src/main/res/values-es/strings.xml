@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplicación de usuario de Github</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">nombre de usuario</string>
+    <string name="user_name">%s</string>
+    <string name="full_name">Farhan Mufti Hilmy</string>
+    <string name="detail">Detalle</string>
+    <string name="repository">%s repositorios</string>
+    <string name="followings">%s siguiendo</string>
+    <string name="follower">%s seguidor</string>
+    <string name="following_title">Siguiendo</string>
+    <string name="follower_title">Seguidor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="live_in">%s</string>
+    <string name="work_in">%s</string>
+    <string name="change_language_settings">Cambiar la configuración de idioma</string>
+    <string name="following_detail">siguiendo</string>
+    <string name="repositoriy_detail">repositorios</string>
+    <string name="followers_detail">seguidor</string>
+</resources>

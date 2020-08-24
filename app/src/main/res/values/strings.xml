@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search">Search</string>
+    <string name="search_hint">username</string>
+    <string name="user_name">%s</string>
+    <string name="full_name">Farhan Mufti Hilmy</string>
+    <string name="detail">Detail</string>
+    <string name="repository">%s repositories</string>
+    <string name="followings">%s following</string>
+    <string name="follower">%s followers</string>
+    <string name="following_title">Followings</string>
+    <string name="follower_title">Followers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="live_in">%s</string>
+    <string name="work_in">%s</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="following_detail">following</string>
+    <string name="repositoriy_detail">repositories</string>
+    <string name="followers_detail">followers</string>
+</resources>
